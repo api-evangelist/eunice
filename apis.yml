@@ -1,22 +1,82 @@
 aid: eunice
 name: Eunice
-description: Eunice is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Eunice is a London-based AI fintech building institutional-grade due diligence
+  and monitoring infrastructure for digital assets and private markets. Its platform automates
+  token due diligence, classification, risk analysis, and disclosure requirements — including
+  an AI-powered MiCA whitepaper library for streamlining compliance with the EU's Markets in
+  Crypto-Assets Regulation — and delivers insights through a dashboard and API to exchanges,
+  funds, custodians, issuers, and regulators. Founded in 2021 by Yi Luo, a second-time fintech
+  entrepreneur and former VC, Eunice raised $8M in combined Seed and Pre-Seed funding led by
+  Moonfire Ventures and Speedinvest with participation from Openspace Ventures in 2026, and
+  counts Coinbase, Crypto.com, Copper, and Zodia Custody among its clients.
 url: https://raw.githubusercontent.com/api-evangelist/eunice/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/assets/Ep1Xh8MWpsASZ3okbXOWDZjNc.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - speedinvest
-x-tier: stub
-x-tier-reason: portfolio-lead
+- moonfire-ventures
+- openspace-ventures
+x-tier: profiled
+x-tier-reason: portfolio-lead-enriched
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Compliance
+- Due Diligence
+- Digital Assets
+- Cryptocurrency
+- RegTech
+- Fintech
+- Artificial Intelligence
+- Risk Monitoring
+- MiCA
 apis: []
+common:
+- type: DomainSecurity
+  url: security/eunice-domain-security.yml
+- type: LLMsTxt
+  url: llms/eunice-llms.txt
+- type: Website
+  url: https://eunice.ai/
+- type: Blog
+  url: https://eunice.ai/blog
+- type: TrustCenter
+  url: https://app.eu.vanta.com/eunice.ai/trust/siy0j28scq653o6k5baea
+- type: Compliance
+  url: security/eunice-trust-center.yml
+- type: TermsOfService
+  url: https://eunice.ai/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://eunice.ai/privacy-policy
+- type: Support
+  url: mailto:support@eunice.ai
+- type: Careers
+  url: https://eunice.ai/careers
+- type: LinkedIn
+  url: https://www.linkedin.com/company/euniceai/
+- type: X
+  url: https://x.com/eunice_ai1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

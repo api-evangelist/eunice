@@ -1,0 +1,21 @@
+generated: '2026-07-19'
+method: searched
+probe: false
+source: https://eunice.ai/security
+url: https://app.eu.vanta.com/eunice.ai/trust/siy0j28scq653o6k5baea
+trust_platform: Vanta
+certifications:
+- SOC 2 Type II
+- GDPR
+frameworks:
+- AICPA SOC 2
+practices:
+- No AI model training on customer/proprietary data
+- Encryption of data (in transit and at rest per compliance framework)
+- Security by design (enterprise-grade controls)
+- Data-handling transparency
+evidence:
+- source: https://eunice.ai/security
+  keywords: [soc2, soc2 ii, gdpr, aicpa, encryption, trust center]
+- source: https://app.eu.vanta.com/eunice.ai/trust/siy0j28scq653o6k5baea
+  keywords: [vanta, trust center]

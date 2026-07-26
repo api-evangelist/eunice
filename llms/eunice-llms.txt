@@ -1,0 +1,23 @@
+# Eunice
+
+> Eunice is a London-based AI fintech building institutional-grade due diligence and monitoring infrastructure for digital assets and private markets — automating token due diligence, classification, risk analysis, and disclosure (including an AI-powered MiCA whitepaper library), delivered via dashboard and API to exchanges, funds, custodians, issuers, and regulators.
+
+## Company
+- [Website](https://eunice.ai/): Product and company overview
+- [Digital Assets](https://eunice.ai/digital-asset): AI for digital-asset due diligence
+- [Private Markets](https://eunice.ai/private-markets): Due diligence across alternative assets
+- [Blog](https://eunice.ai/blog): Company insights and announcements
+- [Careers](https://eunice.ai/careers): Open roles
+
+## Trust & Security
+- [Security](https://eunice.ai/security): Security overview (SOC 2 Type II, GDPR, AICPA)
+- [Trust Center](https://app.eu.vanta.com/eunice.ai/trust/siy0j28scq653o6k5baea): Vanta trust center
+- [Terms of Service](https://eunice.ai/terms-and-conditions)
+- [Privacy Policy](https://eunice.ai/privacy-policy)
+
+## Contact
+- Inquiries: inquiries@eunice.ai
+- Support: support@eunice.ai
+
+## Notes
+- No public developer portal, API documentation, SDKs, or OpenAPI specification are published as of 2026-07-19; platform access appears to be enterprise/dashboard-gated.
