@@ -10,6 +10,17 @@ description: Eunice is a London-based AI fintech building institutional-grade du
   Moonfire Ventures and Speedinvest with participation from Openspace Ventures in 2026, and
   counts Coinbase, Crypto.com, Copper, and Zodia Custody among its clients.
 url: https://raw.githubusercontent.com/api-evangelist/eunice/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
