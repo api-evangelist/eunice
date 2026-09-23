@@ -1,0 +1,27 @@
+# Front Door AI Index — eunice — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: eunice
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: eunice.ai
+  final_host: eunice.ai
+  ownership: own
+  owner: eunice
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 6
+  host_score: 6
+  density: 10.87
+  words: 552
+  tiers:
+    agentic: 0
+    core: 6
+    model: 0
+  ambiguous: 3
+  top_terms:
+    AI: 6
+    agent: 2
+    intelligence: 1
